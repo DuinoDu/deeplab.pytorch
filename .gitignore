@@ -1,0 +1,19 @@
+*/**/__pycache__
+*.pyc
+*.so*
+*.dylib*
+
+# IPython notebook checkpoints
+.ipynb_checkpoints
+
+# Editor temporaries
+*.swn
+*.swo
+*.swp
+*~
+
+cache
+weight
+
+# OSX dir files
+.DS_Store
